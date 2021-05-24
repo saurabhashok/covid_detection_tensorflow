@@ -1,1 +1,1 @@
-# covid_detection_tensorflow
+# Covid Detection using Tensorflow
